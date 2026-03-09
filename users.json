@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "email": "admin@school.edu",
+        "full_name": "System Admin",
+        "password": "123ssag@43AE",
+        "role": "Admin",
+        "registered_at": "..."
+    },
+    {
+        "id": "832e3874-ed8c-45d2-90f7-6de7626a1cfc",
+        "email": "seescott@udel.edu",
+        "full_name": "Sofia Scott",
+        "password": "Sofia",
+        "role": "Instructor",
+        "registered_at": "2026-03-06T11:06:05.602982"
+    },
+    {
+        "id": "0ab2858c-e92b-4090-80f7-034529fb7b36",
+        "email": "seescott@udel.edu",
+        "full_name": "Sofia Scott",
+        "password": "Sofia",
+        "role": "Instructor",
+        "registered_at": "2026-03-06T11:06:05.719831"
+    },
+    {
+        "id": "ea62ad41-5381-4fa2-8477-e7ef93043d6a",
+        "email": "seescott@udel.edu",
+        "full_name": "Sofia Scott",
+        "password": "1",
+        "role": "Instructor",
+        "registered_at": "2026-03-06T11:07:50.503235"
+    }
+]
